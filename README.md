@@ -7,3 +7,5 @@ Installers and updates for Mobile Shop POS. Download the latest installer from t
 - Mac (Intel): `MobileShopPOS-<version>-x64.dmg` · Mac (Apple Silicon): `MobileShopPOS-<version>-arm64.dmg`
 
 Installed copies check this repository for updates on launch.
+
+**[User guide](USER-GUIDE.md)** — install, roles, selling, buying, stock, repairs, khata, cash, staff, reports, settings, backups.
